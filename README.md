@@ -1,11 +1,13 @@
 # Swift-Multiples
+
 A simple graphical Swift iOS app that calculates the multiple of a number the user provides every time the user clicks an add button and displays it to the screen.
 
 Citations:
 
-Button graphics - https://www.iconfinder.com
-Logo Graphic - textcraft.net
-Background Graphic - http://freeios7.com/
+
++ Button graphics - https://www.iconfinder.com
++ Logo Graphic - textcraft.net
++ Background Graphic - http://freeios7.com/
 
 Example Preview:
 
