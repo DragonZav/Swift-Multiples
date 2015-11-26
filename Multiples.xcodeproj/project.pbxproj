@@ -285,6 +285,7 @@
 				1EF153101C065E2E0079D84B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
