@@ -6,7 +6,7 @@ Citations:
 
 
 + Button graphics - https://www.iconfinder.com
-+ Logo Graphic - textcraft.net
++ Logo Graphic - http://www.textcraft.net
 + Background Graphic - http://freeios7.com/
 
 Example Preview:
